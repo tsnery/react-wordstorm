@@ -1,0 +1,25 @@
+{
+  "name": "@tsnery/react-wordstorm",
+  "version": "1.0.0",
+  "description": "A React component for creating word clouds",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "wordstorm",
+    "word-cloud",
+    "wordcloud",
+    "tag-cloud",
+    "wordcloud generator"
+  ],
+  "author": "Tainan Nery",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsnery/react-wordstorm"
+  }
+}
